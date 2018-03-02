@@ -1,2 +1,2 @@
-# BackTrace-QueenPlacement
-Something about  eight queen problem
+# (回溯)八皇后问题
+皇后数量和棋盘行列数通过参数输入
